@@ -1,4 +1,7 @@
 # Hi there! 👋 I'm Anis
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F77B00&lines=Welcome+to+my+GitHub+Profile!;Machine+Learning+Enthusiast;NLP+Researcher)](https://git.io/typing-svg)
+
 
 ## 🚀 About Me
 - 🎓 Final year cs student at AIUB
@@ -19,4 +22,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AnisSwe&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- Visitor Count -->
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=YourUsername.YourUsername)
+
+
+
