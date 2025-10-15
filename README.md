@@ -1,3 +1,10 @@
+# Hi there! 👋 I'm Anis
+
+## 🚀 About Me
+- 🎓 Final year cs student at AIUB
+- 💼 Interets in ML,NLP,Computer Vision,Software Engineering,Generative AI
+- 🌱 Currently learning GoLang, Computer Vision
+- 💡 Interested in Research work, open-source contributions
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anisur-rahman-525974250/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anis.aiubccse@gmail.com) 
